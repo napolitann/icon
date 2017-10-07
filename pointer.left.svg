@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>pointer.left</title>
+  <g id="pointer.left">
+    <line x1="9" y1="32" x2="56" y2="32" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="32 55 9 32 32 9" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
