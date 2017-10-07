@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>search</title>
+  <g>
+    <path d="M36,10A18,18,0,1,1,18,28,18.02,18.02,0,0,1,36,10m0-2A20,20,0,1,0,56,28,20,20,0,0,0,36,8Z"/>
+    <line x1="9" y1="55" x2="22" y2="42" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
